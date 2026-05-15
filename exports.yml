@@ -1,0 +1,7 @@
+version: 1
+
+modules:
+  netcheck_bypass:
+    main:
+      start: module_start
+      stop: module_stop
