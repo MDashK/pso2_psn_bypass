@@ -3,8 +3,8 @@ A PSVita plugin for usage on PSO2 to bypass the need to connect to PSN servers.
 
 # Usage
 
-1. Place "pso2_psn_bypass.suprx" file in "ur0:tai".
-2. Change "config.ini" to reflect the following:
+1. Place "pso2_psn_bypass.suprx" file in your tai folder, usually "ur0:tai".
+2. Change "config.txt" present in tai folder to reflect the following:
 ```
 *PCSG00141
 ur0:tai/pso2_psn_bypass.suprx
